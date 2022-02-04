@@ -1,0 +1,20 @@
+{
+  "name": "techhub",
+  "version": "1.0.0",
+  "description": "contains a website developed for an IT company",
+  "main": "index.js",
+  "scripts": {
+   
+    "heroku-postbuild": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonad70/techhub.git"
+  },
+  "author": "simonad70",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonad70/techhub/issues"
+  },
+  "homepage": "https://github.com/simonad70/techhub#readme"
+}

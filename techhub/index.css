@@ -1,0 +1,36 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+
+
+}
+.im{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 5px;
+}
+.mission{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 50px;
+}
+#heading{
+    color: rgb(4, 8, 8);
+    font-family: "Allerta Stencil", sans-serif;
+}
+#para{
+    color: rgb(7, 3, 3);
+}
+#tech{
+    color: rgb(8, 13, 14);
+    text-shadow: azure;
+}
